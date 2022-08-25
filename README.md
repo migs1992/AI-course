@@ -1,4 +1,4 @@
-# Project Title
+# Crypto save AI
 
 Final project for the Building AI course
 
